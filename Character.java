@@ -9,7 +9,7 @@ public abstract class Character {
    
     
    
-   void setWeapon(WeaponBehavior w){
+  public void setWeapon(WeaponBehavior w){
 	   this.weapon = w;
    }
 }
