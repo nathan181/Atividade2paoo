@@ -5,6 +5,6 @@ public class King extends Character {
 		weapon = w;// TODO Auto-generated constructor stub
 	}
     public void fight() {
-    	System.out.println("usando faca");
+    	System.out.println("me defendendo");
     }
 }
