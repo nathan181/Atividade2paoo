@@ -5,6 +5,6 @@ public class Knight extends Character {
 		weapon = w;// TODO Auto-generated constructor stub
 	}
     public void fight() {
-    	System.out.println("usando uma espada");
+    	System.out.println("servindo ao rei");
     }
 }
