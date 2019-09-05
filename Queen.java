@@ -5,7 +5,7 @@ public class Queen extends Character{
 	   weapon = w;// TODO Auto-generated constructor stub
 	}
 	public void fight() {
-		System.out.println("usando arco e flecha");
+		System.out.println("defendendo o rei");
 	}
 
 }
